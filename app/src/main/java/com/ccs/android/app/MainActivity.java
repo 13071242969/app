@@ -12,7 +12,7 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
     
     int qwe;
-    int asd;
+    int asd;//这是新写的代码
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
